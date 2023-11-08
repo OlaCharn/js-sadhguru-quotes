@@ -8,4 +8,4 @@ I have made this project to learn JS by building applications.
 
 
 
-⭐ Deployed at: (<https://sadhguru-quotes.netlify.app/>)
+⭐ Deployed at: (<https://squares-random-quantity-color.glitch.me>)
